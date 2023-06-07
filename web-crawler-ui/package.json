@@ -1,0 +1,30 @@
+{
+  "name": "web-crawler-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.2",
+    "@types/react-dom": "18.2.3",
+    "axios": "^1.4.0",
+    "eslint-config-next": "^13.4.4",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "ionicons": "^7.1.0",
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reagraph": "^4.8.2",
+    "styled-components": "^5.3.10",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
+  }
+}
